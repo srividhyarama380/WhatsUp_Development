@@ -4,3 +4,4 @@ This is whatsUp code
 @. Chat screen code
 #. Last seen code
 $. Attachments (Image, Audio, video) Code
+%. Hiding the last seen 
