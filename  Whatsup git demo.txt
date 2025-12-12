@@ -1,0 +1,6 @@
+This is whatsUp code
+
+!. Profile page code
+@. Chat screen code
+#. Last seen code
+$. Attachments (Image, Audio, video) Code
