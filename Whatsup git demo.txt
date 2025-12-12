@@ -5,3 +5,5 @@ This is whatsUp code
 #. Last seen code
 $. Attachments (Image, Audio, video) Code
 %. Hiding the last seen 
+Adding the audio call 
+Adding the video calls
